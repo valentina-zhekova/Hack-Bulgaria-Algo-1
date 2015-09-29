@@ -1,0 +1,6 @@
+// should not just cut to 5th digit but round according to 6th!!!
+5 -> 2.23607
+4 -> 2.00000
+247359 -> 497.35199
+2 -> 1.41421
+1 000 000 000 -> 31622.77660
